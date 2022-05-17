@@ -1,6 +1,6 @@
 DAO Project -> </br>
 
-Anyone with a CryptoDevs NFT can create a proposal to purchase a different NFT from an NFT marketplace </br>
+Anyone with a CryptoDevs NFT can create a proposal to purchase a different NFT from an fake NFT marketplace </br>
 
 Everyone with a CryptoDevs NFT can vote for or against the active proposals </br>
 
